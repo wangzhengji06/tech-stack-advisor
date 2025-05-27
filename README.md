@@ -180,9 +180,9 @@ See the [LICENSE](./LICENSE) file for details.
 
 ## 🙌 Credits
 
-Created by \[Your Name] as part of the **AI/ML with Docker** course at **School of DevOps**.
+Created by \[Gourav Shah](https://www.linkedin.com/in/gouravshah) as part of the **AI/ML with Docker** course at **School of DevOps**.
 
 ---
 
-> 🛠 Happy shipping, DevOps builders!
+> 🛠 Happy shipping, DevOps and MLOps builders!
 
